@@ -92,16 +92,16 @@ The **Password Strength Meter** is a Python-based web application built with **S
 ## Screenshots 📸
 
 ### Main Interface
-![Main Interface](screenshots/main.png)
+![Main Interface](images/main.png)
 
 ### Strong Password Feedback
-![Strong Password](screenshots/strong.png)
+![Strong Password](images/strong.png)
 
 ### Weak Password Feedback
-![Weak Password](screenshots/weak.png)
+![Weak Password](images/weak.png)
 
 ### Generate Strong Password
-![Generate Password](screenshots/generate.png)
+![Generate Password](images/generate.png)
 
 ---
 
